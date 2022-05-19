@@ -21,4 +21,4 @@ Ascending Order: <br />
 J (11) <br />
 Q (12) <br />
 A (13) <br />
-K - A king is considered a 'safe' card. If a player is dealt a kind, the player must immediately flip their card to show the table and they are considered safe for that round. A card cannot be traded over a king, meaning if the player to the right of the king card wants to trade, they can no longer do so since the player to their left holds a king.
+K - A king is considered a 'safe' card. If a player is dealt a king, the player must immediately flip their card to show the table and they are considered safe for that round. A card cannot be traded over a king, meaning if the player to the right of the king card wants to trade, they can no longer do so since the player to their left holds a king.
