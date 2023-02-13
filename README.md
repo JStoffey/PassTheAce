@@ -6,6 +6,8 @@ Pass the ace is a card game where there are at least 2+ players. The objective o
 
 If there are 4 or less players remaining in the round, and all players reveal the same numerical value of their cards (tie), then all players that have lost are allowed to rejoin the game.
 
+A king is considered a 'safe' card. If a player is dealt a king, the player must immediately flip their card to show the table and they are considered safe for that round. A card cannot be traded over a king, meaning if the player to the right of the king card wants to trade, they can no longer do so since the player to their left holds a king.
+
 ## Card Details
 Suits have no importance in this game. <br />
 Ascending Order: <br />
@@ -21,4 +23,4 @@ Ascending Order: <br />
 J (11) <br />
 Q (12) <br />
 A (13) <br />
-K - A king is considered a 'safe' card. If a player is dealt a king, the player must immediately flip their card to show the table and they are considered safe for that round. A card cannot be traded over a king, meaning if the player to the right of the king card wants to trade, they can no longer do so since the player to their left holds a king.
+K - A king is considered a 'safe' card.
