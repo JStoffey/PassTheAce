@@ -11,6 +11,7 @@ A king is considered a 'safe' card. If a player is dealt a king, the player must
 ## Card Details
 Suits have no importance in this game. <br />
 Ascending Order: <br />
+K - A king is considered a 'safe' card. <br />
 2 <br />
 3 <br />
 4 <br />
@@ -23,4 +24,3 @@ Ascending Order: <br />
 J (11) <br />
 Q (12) <br />
 A (13) <br />
-K - A king is considered a 'safe' card.
